@@ -9,7 +9,6 @@ export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
 # Updated versions of preinstalled copies
 # from hombrew install 
-alias vim='/usr/local/bin/vim'
 alias gcc='/usr/local/bin/gcc-6'
 
 alias sd="cd /Users/avikbag/Documents/SeniorDesign_main"
